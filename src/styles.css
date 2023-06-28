@@ -1,8 +1,28 @@
 body{
 text-align:center;
 margin:20px 10px 10px;
+background:#f5f2fe;
+    font-weight:normal;
+    text-align:center;
+     padding: 20px;
+  border-radius: 4px;
+  font-size: 18px;
+  line-height: 1.5;
+  text-align: center;
+
+}
+
+h1,
+  p
+{
+    font-family: 'Bebas Neue', sans-serif;
+
 }
 .hero{
+    font-family: 'Indie Flower', cursive;
+font-family: 'Comforter', sans-serif;
+text-align:center;
+font-weight:bold;
 background:pink;
 text-align:center;
 margin-top:30px;
