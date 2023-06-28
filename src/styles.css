@@ -11,6 +11,15 @@ margin:20px 10px 10px;
 
 }
 
+
+h1{
+    font-size:96px;
+    font-weight:bold;
+}
+p{
+    font-weight:normal;
+}
+
 h1,
   p
 {
@@ -19,19 +28,20 @@ h1,
 }
 
 h2{
-background:pink;
-font-family:'Comforter', sans-serif;
+font-size:36px;
+font-weight:bold;
 
 }
 .hero{
     font-family: 'Bebas Neue', sans-serif;
 text-align:center;
-font-weight:bold;
 text-align:center;
 margin-top:30px;
 background:#f5f2fe;
-
+padding:160px 20px;
 }
 .btn{
 text-align:center;
+border-radius:4px;
+padding:10px 10px 10px;
 }
